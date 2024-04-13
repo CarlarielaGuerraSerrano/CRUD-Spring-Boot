@@ -22,12 +22,12 @@
     REST is an acronym for REpresentational State Transfer and an architectural style for distributed hypermedia systems. Roy Fielding first presented it in 2000 in his famous     
     dissertation. Since then it has become one of the most widely used approaches for building web-based APIs (Application Programming Interfaces).
     Like the other architectural styles, REST also has its guiding principles and constraints. These principles must be satisfied if a service interface has to be referred to as RESTful.
-    <br>
+    
     👉 A Web API (or Web Service) conforming to the REST architectural style is called a REST API (or RESTful API).
 </p>
 
 <p align ="center">
-  <image src=  " https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/260127571/original/81b1f622228ecf883ba5985e86aa52c395797482/create-api-rest-from-mysql-db-in php.png" alt="Descripción de la imagen">
+  <image src=  "https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/260127571/original/81b1f622228ecf883ba5985e86aa52c395797482/create-api-rest-from-mysql-db-in php.png" alt="Descripción de la imagen">
 </p>
 
 Prerequisites 📋
