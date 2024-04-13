@@ -1,4 +1,5 @@
-<p align="center"> <h1>Creating a CRUD RESTful API with SpringBoot | PostgreSQL</h1></p>
+<h1 align="center">Creating a CRUD RESTful API with SpringBoot | PostgreSQL</h1>
+
 <p align="center" <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
   </p>
 
