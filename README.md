@@ -42,6 +42,10 @@ Prerequisites 📋
 <li>Spring Data JPA | SQL</li>
 <li>PostgreSQL Driver | SQL</li>
 <br>
+
+[![spring-initializr-crud.jpg](https://i.postimg.cc/qMTZPcP2/spring-initializr-crud.jpg)](https://postimg.cc/bdmTbnNv)
+
+<br>
 <p>Tools 🛠️</p>
 <li>Postman</li>
 <li>Intellij Idea</li>
